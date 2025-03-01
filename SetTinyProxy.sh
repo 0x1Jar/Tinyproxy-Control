@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# Author: 0x1Jar
 # Function to display ASCII art with "TinySetup" text
 ascii_art() {
   echo " | _______________ |     TinySetup"
@@ -15,6 +16,7 @@ ascii_art() {
   echo "|         [_____] []|  \\__"
   echo "L___________________J     \\ \\___\/"
   echo " ___________________      /\ "
+  echo " |     0x1Jar      |    (__)"
   echo "/###################\\    (__)"
 }
 
