@@ -1,8 +1,8 @@
 # Tinyproxy Control
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 ![Tinyproxy Control Menu](images/Screenshot-2025.png)
+
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 A Bash script to easily manage and configure Tinyproxy. This tool provides a user-friendly menu to control various aspects of Tinyproxy, including:
 
